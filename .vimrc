@@ -9,3 +9,6 @@ set sm
 set selection=inclusive
 set wildmenu
 set mousemodel=popup
+set number
+set autoindent
+set nowrap
