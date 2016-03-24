@@ -9,6 +9,11 @@ set sm
 set selection=inclusive
 set wildmenu
 set mousemodel=popup
-set number
 set autoindent
 set nowrap
+
+syntax on
+set background=light
+set incsearch
+set hlsearch
+
