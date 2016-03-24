@@ -1,6 +1,9 @@
 set sw=4
 set ts=4
-set et
+set cindent
+set softtabstop=4
+set showmatch
+set showmode
 set smarttab
 set smartindent
 set lbr
